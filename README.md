@@ -1,4 +1,4 @@
-# Olá, eu sou Samory Soundiata
+# Olá, eu sou o Samory Soundiata
 
 Sou Consultor Sênior de TI e desenvolvedor back-end com foco em .NET e soluções web sob demanda. Atuo como PJ em projetos corporativos de grande porte, além de liderar minha própria empresa, a [ResponSys.site](https://responSys.site), especializada em criação de sistemas responsivos, APIs robustas e implantação em servidores VPS.
 
@@ -19,14 +19,6 @@ Sou Consultor Sênior de TI e desenvolvedor back-end com foco em .NET e soluçõ
 ![VPS](https://img.shields.io/badge/-Ubuntu%20VPS-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-## 🌐 Projetos em destaque
-
-🔹 [**MalaDireta**](https://github.com/samorysundjata/MalaDireta) – API REST em .NET para envio automatizado de correspondências personalizadas.
-
-🔹 [**EnvioEmail**](https://github.com/samorysundjata/EnvioEmail) – App Console C# para envio de e-mails usando Gmail SMTP com autenticação.
-
-🔹 [**TarefasDapperApi**](https://github.com/samorysundjata/TarefasDapperApi) – CRUD com Dapper e SQLite para APIs enxutas.
 
 ## 📈 Em números
 
