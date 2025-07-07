@@ -1,6 +1,6 @@
 # Olá, eu sou o Samory Soundiata
 
-Sou Consultor Sênior de TI e desenvolvedor back-end com foco em .NET e soluções web sob demanda. Atuo em projetos corporativos, além de liderar minha própria empresa, a [ResponSys.site](https://responSys.site), especializada em criação de sistemas responsivos, APIs robustas e implantação em servidores VPS.
+Consultor Sênior de TI e desenvolvedor back-end especializado em .NET e soluções web sob demanda. Atuo via minha PJ em projetos corporativos e lidero a [Sistemas Responsivos](https://responSys.site), focada em sistemas responsivos, APIs escaláveis e implantação em servidores VPS.
 
 ## O que eu faço
 
