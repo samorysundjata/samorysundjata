@@ -8,7 +8,7 @@ Consultor Sênior de TI e desenvolvedor back-end especializado em .NET e soluç�
 - Sistemas web personalizados com back-end robusto e front-end responsivo
 - Implantação de aplicações em VPS (Ubuntu + NGINX + HTTPS)
 - Integração com bancos de dados SQL Server, MySQL, Oracle e MongoDB
-- Landing pages otimizadas para performance e SEO
+- Landing Pages otimizadas para performance e SEO
 - Consultoria técnica e arquitetura de software para empresas públicas e privadas
 
 ## 🛠️ Tecnologias
@@ -24,12 +24,12 @@ Consultor Sênior de TI e desenvolvedor back-end especializado em .NET e soluç�
 
 - 🏢 +20 anos de experiência em desenvolvimento
 - 🏛️ Atuação em fundações públicas e setor financeiro
-- 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://sistemasresponsivos.com.br)
+- 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://responSys.site)
 
 ## 📬 Entre em contato
 
 - ✉️ samory.sundjata@gmail.com
-- 🌐 [ResponSys.site](https://responSys.site)
+- 🌐 [SistemasResponsivos](https://responSys.site)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samory)
 
 ---
