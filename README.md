@@ -1,6 +1,6 @@
 # Olá, eu sou o Samory Soundiata
 
-🎯 Consultor Sênior de TI e desenvolvedor back-end especializado em .NET, APIs escaláveis e soluções web sob demanda. Fundador da [Sistemas Responsivos](https://responSys.site), atuo via PJ em projetos corporativos e públicos, com foco em implantação em VPS Linux, performance e responsividade. Entrego soluções personalizadas para PMEs, combinando experiência técnica com agilidade. Também compartilho insights sobre tecnologia no meu blog [blog](https://samory.sistemasresponsivos.com.br/) e no [Medium](https://medium.com/@samory.sundjata).
+🎯 Consultor Sênior de TI e desenvolvedor back-end especializado em .NET, APIs escaláveis e soluções web sob demanda. Fundador da [Sistemas Responsivos](https://responSys.site), atuo via PJ em projetos corporativos e públicos, com foco em implantação em VPS Linux, performance e responsividade. Entrego soluções personalizadas para PMEs, combinando experiência técnica com agilidade. Também compartilho insights sobre tecnologia no meu [blog](https://samory.sistemasresponsivos.com.br/) e no [Medium](https://medium.com/@samory.sundjata).
 
 ## O que eu faço
 
