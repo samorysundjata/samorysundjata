@@ -24,11 +24,7 @@
 
 - 🏢 +20 anos de experiência em desenvolvimento
 - 🏛️ Atuação em fundações públicas e setor financeiro
-<<<<<<< HEAD
 - 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://sistemasresponsivos.com.br)
-=======
-- 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://responSys.site)
->>>>>>> 4e274b4f6de621b2a629deb78440ec694766e84c
 
 ## Certificações
 
