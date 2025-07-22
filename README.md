@@ -1,38 +1,34 @@
-# Olá, eu sou Samory Soundiata
+# Olá, eu sou o Samory Soundiata
 
-Sou Consultor Sênior de TI e desenvolvedor back-end com foco em .NET e soluções web sob demanda. Atuo como PJ em projetos corporativos de grande porte, além de liderar minha própria empresa, a [ResponSys.site](https://responSys.site), especializada em criação de sistemas responsivos, APIs robustas e implantação em servidores VPS.
+🎯 Consultor Sênior de TI e desenvolvedor back-end especializado em .NET, APIs escaláveis e soluções web sob demanda. Fundador da [Sistemas Responsivos](https://responSys.site), atuo via PJ em projetos corporativos e públicos, com foco em implantação em VPS Linux, performance e responsividade. Entrego soluções personalizadas para PMEs, combinando experiência técnica com agilidade. Também compartilho insights sobre tecnologia no meu [blog](https://samory.sistemasresponsivos.com.br/) e no [Medium](https://medium.com/@samory.sundjata).
 
 ## O que eu faço
 
 - Desenvolvimento de APIs em .NET (Core, 6, 7, 8)
 - Sistemas web personalizados com back-end robusto e front-end responsivo
 - Implantação de aplicações em VPS (Ubuntu + NGINX + HTTPS)
-- Integração com bancos de dados SQL Server, Oracle e MongoDB
-- Landing pages otimizadas para performance e SEO
+- Integração com bancos de dados SQL Server, MySQL, Oracle e MongoDB
+- Landing Pages otimizadas para performance e SEO
 - Consultoria técnica e arquitetura de software para empresas públicas e privadas
 
 ## 🛠️ Tecnologias
 
-![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VPS](https://img.shields.io/badge/-Ubuntu%20VPS-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-## 🌐 Projetos em destaque
-
-🔹 [**MalaDireta**](https://github.com/samorysundjata/MalaDireta) – API REST em .NET para envio automatizado de correspondências personalizadas.
-
-🔹 [**EnvioEmail**](https://github.com/samorysundjata/EnvioEmail) – App Console C# para envio de e-mails usando Gmail SMTP com autenticação.
-
-🔹 [**TarefasDapperApi**](https://github.com/samorysundjata/TarefasDapperApi) – CRUD com Dapper e SQLite para APIs enxutas.
+[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VPS](https://img.shields.io/badge/-Ubuntu%20VPS-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://docs.github.com/actions)
 
 ## 📈 Em números
 
 - 🏢 +20 anos de experiência em desenvolvimento
 - 🏛️ Atuação em fundações públicas e setor financeiro
+<<<<<<< HEAD
 - 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://sistemasresponsivos.com.br)
+=======
+- 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://responSys.site)
+>>>>>>> 4e274b4f6de621b2a629deb78440ec694766e84c
 
 ## Certificações
 
@@ -51,10 +47,9 @@ Certificação oficial da Microsoft que valida conhecimentos essenciais sobre co
 ## 📬 Entre em contato
 
 - ✉️ samory.sundjata@gmail.com
-- 🌐 [ResponSys.site](https://responSys.site)
+- 🌐 [Sistemas Responsivos](https://responSys.site)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samory)
 
 ---
-
 🛠️ Buscando soluções sob demanda ou parceria técnica?
 Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido e com propósito!
