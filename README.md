@@ -1,33 +1,34 @@
-<details>
-  <summary>🇧🇷 Português</summary>
+# Olá, eu sou o Samory Soundiata 👋
 
-# Olá, eu sou o Samory Soundiata
+🎯 Consultor Sênior de TI e Desenvolvedor Backend .NET com 18+ anos de experiência em APIs, mensageria e arquiteturas multicloud (AWS, Azure). Atuei em projetos de grande porte nos setores financeiro, saúde e energia, sempre com foco em escalabilidade, performance e confiabilidade.
 
-🎯 Consultor Sênior de TI e desenvolvedor back-end especializado em .NET, APIs escaláveis e soluções web sob demanda. Fundador da [Sistemas Responsivos](https://responSys.site), atuo via PJ em projetos corporativos e públicos, com foco em implantação em VPS Linux, performance e responsividade. Entrego soluções personalizadas para PMEs, combinando experiência técnica com agilidade. Também compartilho insights sobre tecnologia no meu [blog](https://samory.sistemasresponsivos.com.br/) e no [Medium](https://medium.com/@samory.sundjata).
+---
 
-## O que eu faço
+## 🚀 Principais competências
 
-- Desenvolvimento de APIs em .NET (Core, 6, 7, 8)
-- Sistemas web personalizados com back-end robusto e front-end responsivo
-- Implantação de aplicações em VPS (Ubuntu + NGINX + HTTPS)
-- Integração com bancos de dados SQL Server, MySQL, Oracle e MongoDB
-- Landing Pages otimizadas para performance e SEO
-- Consultoria técnica e arquitetura de software para empresas públicas e privadas
+- Backend em .NET (Core, 6, 7, 8)
+- Integração de APIs e bancos de dados (SQL Server, PostgreSQL, Oracle, MongoDB)
+- Arquitetura multicloud (AWS, Azure)
+- Mensageria e processamento assíncrono (RabbitMQ, BackgroundService)
+- Automação de testes e CI/CD (xUnit, Moq, Azure DevOps, GitHub Actions)
+
+---
 
 ## 🛠️ Tecnologias
 
-[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/)
+[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)  
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VPS](https://img.shields.io/badge/-Ubuntu%20VPS-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://docs.github.com/actions)
+
+---
 
 ## 📈 Em números
 
-- 🏢 +20 anos de experiência em desenvolvimento
-- 🏛️ Atuação em fundações públicas e setor financeiro
-- 🌐 Serviços oferecidos por meio da [SistemasResponsivos.com.br](https://sistemasresponsivos.com.br)
+- 🏢 18+ anos de experiência em desenvolvimento backend
+- 🏛️ Projetos entregues em bancos, saúde e energia
+- 🌐 Experiência consolidada em ambientes multicloud (AWS e Azure)
 
 ## Certificações
 
@@ -54,38 +55,42 @@ Certificação oficial da Microsoft que valida conhecimentos essenciais sobre co
 🛠️ Buscando soluções sob demanda ou parceria técnica?
 Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido e com propósito!
 
-</details>
-
 <details>
   <summary>🇺🇸 English</summary>
 
 # Hi, I'm Samory Soundiata
 
-🎯 Senior IT Consultant and back-end developer specialized in .NET, scalable APIs, and on-demand web solutions. Founder of [Sistemas Responsivos](https://responSys.site), I work as a contractor on corporate and public projects, focusing on Linux VPS deployment, performance, and responsiveness. I deliver customized solutions for SMBs, combining technical expertise with agility. I also share technology insights on my [blog](https://samory.sistemasresponsivos.com.br/) and on [Medium](https://medium.com/@samory.sundjata).
+# Hi, I'm Samory Soundiata 👋
 
-## What I do
+🎯 Senior IT Consultant and Backend .NET Developer with 18+ years of experience in APIs, messaging, and multicloud architectures (AWS, Azure). I have worked on large-scale projects in the financial, healthcare, and energy sectors, always focusing on scalability, performance, and reliability.
 
-- API development in .NET (Core, 6, 7, 8)
-- Custom web systems with robust back-end and responsive front-end
-- Application deployment on VPS (Ubuntu + NGINX + HTTPS)
-- Integration with SQL Server, MySQL, Oracle, and MongoDB databases
-- Landing Pages optimized for performance and SEO
-- Technical consulting and software architecture for public and private companies
+---
+
+## 🚀 Key Skills
+
+- Backend development in .NET (Core, 6, 7, 8)
+- API and database integration (SQL Server, PostgreSQL, Oracle, MongoDB)
+- Multicloud architecture (AWS, Azure)
+- Messaging and asynchronous processing (RabbitMQ, BackgroundService)
+- Test automation and CI/CD (xUnit, Moq, Azure DevOps, GitHub Actions)
+
+---
 
 ## 🛠️ Technologies
 
-[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/)
+[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)  
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VPS](https://img.shields.io/badge/-Ubuntu%20VPS-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://docs.github.com/actions)
 
-## 📈 By the numbers
+---
 
-- 🏢 20+ years of development experience
-- 🏛️ Experience in public foundations and the financial sector
-- 🌐 Services offered through [SistemasResponsivos.com.br](https://sistemasresponsivos.com.br)
+## 📈 At a Glance
+
+- 🏢 18+ years of experience in backend development
+- 🏛️ Delivered projects in banking, healthcare, and energy sectors
+- 🌐 Solid expertise in multicloud environments (AWS and Azure)
 
 ## Certifications
 
