@@ -1,4 +1,4 @@
-# Olá, eu sou o Samory Soundiata 👋
+# Olá, eu sou o Samory Soundiata
 
 🎯 Consultor Sênior de TI e Desenvolvedor Backend .NET com 18+ anos de experiência em APIs, mensageria e arquiteturas multicloud (AWS, Azure). Atuei em projetos de grande porte nos setores financeiro, saúde e energia, sempre com foco em escalabilidade, performance e confiabilidade.
 
@@ -16,11 +16,8 @@
 
 ## 🛠️ Tecnologias
 
-[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)  
-[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/) [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
@@ -60,8 +57,6 @@ Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido
 
 # Hi, I'm Samory Soundiata
 
-# Hi, I'm Samory Soundiata 👋
-
 🎯 Senior IT Consultant and Backend .NET Developer with 18+ years of experience in APIs, messaging, and multicloud architectures (AWS, Azure). I have worked on large-scale projects in the financial, healthcare, and energy sectors, always focusing on scalability, performance, and reliability.
 
 ---
@@ -78,11 +73,7 @@ Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido
 
 ## 🛠️ Technologies
 
-[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)  
-[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/) [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
