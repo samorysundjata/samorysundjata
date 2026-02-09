@@ -4,9 +4,9 @@
 
 ---
 
-## 🚀 Principais competências
+## Principais competências
 
-- Backend em .NET (Core, 6, 7, 8)
+- Backend em .NET 8.0
 - Integração de APIs e bancos de dados (SQL Server, PostgreSQL, Oracle, MongoDB)
 - Arquitetura multicloud (AWS, Azure)
 - Mensageria e processamento assíncrono (RabbitMQ, BackgroundService)
@@ -14,13 +14,13 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 [![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/) [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
-## 📈 Em números
+## Em números
 
 - 🏢 18+ anos de experiência em desenvolvimento backend
 - 🏛️ Projetos entregues em bancos, saúde e energia
@@ -39,7 +39,7 @@ Certificação oficial da Microsoft que valida conhecimentos essenciais sobre co
 ## 📬 Entre em contato
 
 - ✉️ samory.sundjata@gmail.com
-- 🌐 [Sistemas Responsivos](https://responSys.site)
+- 🌐 [Sistemas Responsivos](https://responSys.live)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samory)
 
 ---
@@ -51,13 +51,13 @@ Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido
   <summary>🇺🇸 English</summary>
 # Hi, I'm Samory Soundiata
 
-🎯 Senior IT Consultant and Backend .NET Developer with 18+ years of experience in APIs, messaging, and multicloud architectures (AWS, Azure). I have worked on large-scale projects in the financial, healthcare, and energy sectors, always focusing on scalability, performance, and reliability.
+Senior IT Consultant and Backend .NET Developer with 18+ years of experience in APIs, messaging, and multicloud architectures (AWS, Azure). I have worked on large-scale projects in the financial, healthcare, and energy sectors, always focusing on scalability, performance, and reliability.
 
 ---
 
-## 🚀 Key Skills
+## Key Skills
 
-- Backend development in .NET (Core, 6, 7, 8)
+- Backend development in .NET 8.0
 - API and database integration (SQL Server, PostgreSQL, Oracle, MongoDB)
 - Multicloud architecture (AWS, Azure)
 - Messaging and asynchronous processing (RabbitMQ, BackgroundService)
@@ -65,7 +65,7 @@ Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 [![.NET](https://img.shields.io/badge/-CSharp%20/.NET-512BD4?style=flat&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/) [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -90,7 +90,7 @@ Fique à vontade para entrar em contato. Vamos construir algo eficiente, rápido
 ## 📬 Contact
 
 - ✉️ samory.sundjata@gmail.com
-- 🌐 [Sistemas Responsivos](https://responSys.site)
+- 🌐 [Sistemas Responsivos](https://responSys.live)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samory)
 
 ---
