@@ -6,7 +6,7 @@
 
 ## Principais competências
 
-- Backend em .NET 8.0
+- Backend em .NET 10
 - Integração de APIs e bancos de dados (SQL Server, PostgreSQL, Oracle, MongoDB)
 - Arquitetura multicloud (AWS, Azure)
 - Mensageria e processamento assíncrono (RabbitMQ, BackgroundService)
