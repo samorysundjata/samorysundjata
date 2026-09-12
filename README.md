@@ -57,7 +57,7 @@ Senior IT Consultant and Backend .NET Developer with 18+ years of experience in 
 
 ## Key Skills
 
-- Backend development in .NET 8.0
+- Backend development in .NET 10
 - API and database integration (SQL Server, PostgreSQL, Oracle, MongoDB)
 - Multicloud architecture (AWS, Azure)
 - Messaging and asynchronous processing (RabbitMQ, BackgroundService)
